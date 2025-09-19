@@ -55,7 +55,7 @@ ______________________
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Certain%20sub-categories%20have%20lower%20profit%20margins%20despite%20high%20sales.png)
 
-![image alt](![image alt](https://github.com/Andrew192100099/Student-Performance-Analysis/blob/main/Correlation%20Matrix%20Heatmap.png?raw=true))
+![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Certain%20sub-categories%20have%20lower%20profit%20margins%20despite%20high%20sales.png)
 
 
 
