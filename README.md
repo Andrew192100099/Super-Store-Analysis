@@ -10,10 +10,8 @@ This project is a comprehensive analysis of the Superstore dataset, completed as
 The workflow combines Excel for data preparation and modeling, and Python (Jupyter Notebook) for deeper analytics and visualization.
 __________________
 
- =========================
-|***🗒 Excel Preparation***|
- =========================
- 
+***🗒 Excel Preparation***
+
 **➢ Meta Data –** *understanding structure, fields, and types*
 
 **➢ Business Questions –** *defining key objectives for analysis*
@@ -27,9 +25,7 @@ __________________
 **➢ Documentation –** *full process explanation*
 __________________
 
- =========================
-|***👾 Jupyter (Python)***|
- =========================
+***👾 Jupyter (Python)***
  
 **➢ Data Preparation –** *importing and structuring the dataset*
 
