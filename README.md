@@ -53,7 +53,7 @@ ______________________
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Profit%20Trend%20Over%20Time_px.line.png)
 
-![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Certain%20sub-categories%20have%20lower%20profit%20margins%20despite%20high%20sales.png)
+![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/MOM%20%26%20YOY.png)
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Certain%20sub-categories%20have%20lower%20profit%20margins%20despite%20high%20sales.png)
 
