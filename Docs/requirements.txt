@@ -1,0 +1,31 @@
+╔════════════════════════════════════════════════════════════════════╗
+║                    REQUIREMENTS — Superstore Project             						  ║
+╚════════════════════════════════════════════════════════════════════╝
+
+────────────────────────────────────────────────────────────────────────
+CORE DATA ANALYSIS
+────────────────────────────────────────────────────────────────────────
+pandas      # Data manipulation & analysis (DataFrames, filtering, grouping)
+numpy       # Numerical operations: totals, averages, percentages, arrays
+
+────────────────────────────────────────────────────────────────────────
+VISUALIZATION
+────────────────────────────────────────────────────────────────────────
+matplotlib  # Base plotting library for static/interactive charts
+seaborn     # High-level statistical graphics built on matplotlib
+plotly      # Interactive and dynamic visualizations (Plotly Express)
+
+────────────────────────────────────────────────────────────────────────
+CONSOLE ENHANCEMENT (Optional)
+────────────────────────────────────────────────────────────────────────
+rich        # Colored & formatted console output for better readability
+
+────────────────────────────────────────────────────────────────────────
+NOTES
+────────────────────────────────────────────────────────────────────────
+• warnings library is part of Python stdlib → no need to include here.
+• To freeze exact versions for reproducibility, run:
+    pip freeze > requirements.txt
+• That’s the standard way (installs everything listed inside > pip install -r requirements.txt
+
+────────────────────────────────────────────────────────────────────────
