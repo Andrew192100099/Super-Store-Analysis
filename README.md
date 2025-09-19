@@ -49,7 +49,7 @@ ______________________
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Discount%20Impact%20on%20Profit_px.scatter.png)
 
-![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Profit%20Distribution%20by%20Customer%20Segment_px.pie.pngV)
+![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Profit%20Distribution%20by%20Customer%20Segment_px.pie.png)
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Profit%20Trend%20Over%20Time_px.line.png)
 
