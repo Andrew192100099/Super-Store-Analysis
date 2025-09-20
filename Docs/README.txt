@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║                FINAL PROJECT — Superstore Analysis									  ║
+║                FINAL PROJECT — Superstore Analysis						║
 ╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: Turning messy retail data into clear, actionable store insights.
@@ -95,3 +95,4 @@ CONTACT
 Questions, suggestions or collaborations — 192100099@ecu.edu.eg
 
 ════════════════════════════════════════════════════════════════════════
+
