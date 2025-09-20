@@ -1,5 +1,5 @@
 ╔════════════════════════════════════════════════════════════════════╗
-║                FINAL PROJECT — Superstore Analysis						║
+║                FINAL PROJECT — Superstore Analysis				║
 ╚════════════════════════════════════════════════════════════════════╝
 
 Tagline: Turning messy retail data into clear, actionable store insights.
@@ -87,6 +87,7 @@ LICENSE & CREDITS
 ────────────────────────────────────────────────────────────────────────
 Author: <Andrew Wageh Fahmy>
 Dataset source: Vivek468 — Superstore Dataset (Kaggle)
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 License: MIT 
 
 ────────────────────────────────────────────────────────────────────────
@@ -95,4 +96,5 @@ CONTACT
 Questions, suggestions or collaborations — 192100099@ecu.edu.eg
 
 ════════════════════════════════════════════════════════════════════════
+
 
