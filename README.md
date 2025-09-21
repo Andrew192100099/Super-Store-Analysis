@@ -59,7 +59,8 @@ ______________________
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Images/Certain%20sub-categories%20have%20lower%20profit%20margins%20despite%20high%20sales.png)
 
 </div>
-_____________
+
+<hr>
 
 <div align="center">
 
