@@ -43,7 +43,8 @@ ______________________
   https://drive.google.com/file/d/1iWoKNtPDVohgq9tvDV9v1pn5dwI7-1q8/view?usp=sharing
  ________________________
  
-➢ This repository demonstrates end-to-end data analysis: from cleaning and modeling in Excel to advanced analytics, visualization, and segmentation in Python.
+## ➢ This repository demonstrates end-to-end data analysis: from cleaning and modeling in Excel to advanced analytics, visualization, and segmentation in Python.
+<div align="center">
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Images/Profit%20by%20Sub-Category_px.png)
 
@@ -57,6 +58,7 @@ ______________________
 
 ![image alt](https://github.com/Andrew192100099/Super-Store-Analysis/blob/main/Images/Certain%20sub-categories%20have%20lower%20profit%20margins%20despite%20high%20sales.png)
 
+</div>
 _____________
 
 <div align="center">
